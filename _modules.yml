@@ -10,14 +10,6 @@ modules:
     name: Microservices with Spring Boot
   spring-boot-che:
     name: Microservices with Spring Boot
-  wildfly-swarm:
-    name: Enterprise Microservices with WildFly Swarm
-  wildfly-swarm-che:
-    name: Enterprise Microservices with WildFly Swarm
-  vertx:
-    name: Reactive Microservices with Eclipse Vert.x
-  vertx-che:
-    name: Reactive Microservices with Eclipse Vert.x
   nodejs:
     name: Web UI with Node.js and AngularJS
   health:
